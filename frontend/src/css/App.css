@@ -1,0 +1,33 @@
+.main-content {
+  background-color: rgb(20, 20, 20);
+  flex: 1;
+  padding: 2rem;
+  padding-top: calc(60px + 2rem);
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  top: 4rem;
+}
+
+footer {
+  position: absolute;
+  width:100%;
+  bottom: 0;
+  margin-top: auto;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  left: 0px;
+}
+
+footer a {
+  color: #ddd;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #fff;
+}
+
