@@ -21,23 +21,23 @@ A simple frontend clone of a movie streaming service, built with React and power
 
 2. **Install dependencies**
 
-```bash
-npm install
-```
+   ```bash
+   npm install
 
-3. **Configure API Key**
+
+3. **Start the web-app**
+    ```
+   npm start
+Open the given local port address to view it in the browser.
+
+4. **Configure API Key**
 
 - Get a free API Key from TMDB.
-
-- Open the home webpage.
-
-- Add your key in the form input
+- Open the web-app, it will ask you to submit a valid TMDB API.
+- Add your key in the form input.
 
 
-```
-npm start
-```
-Open the given local port address to view it in the browser.
+
 
 ## Contributing
 This is a personal learning project. Feel free to fork it and add features like:
